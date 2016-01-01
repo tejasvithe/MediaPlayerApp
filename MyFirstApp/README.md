@@ -1,0 +1,1 @@
+Media Player App: It plays media from internet.
